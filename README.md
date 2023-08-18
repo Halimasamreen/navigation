@@ -1,1 +1,1 @@
-
+This code example showcases a responsive navigation bar with a sleek and modern design, built using HTML and CSS. The navigation bar provides a user-friendly way to navigate through different sections of a website and includes options for signing in and signing up.
